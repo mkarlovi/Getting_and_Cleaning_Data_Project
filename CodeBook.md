@@ -1,5 +1,5 @@
 Observations:
-The data created by this R file contains two sets of observations.  The fist set is the partipants, of which there were 30, ages 19-48.
+The data created by this R file contains two sets of observations.  The first set is the participants: number = 30, ages 19-48.
 The second set of observations are the activities that the participants were performing when the observations were recorded.  The activities are:
 1 WALKING
 2 WALKING_UPSTAIRS

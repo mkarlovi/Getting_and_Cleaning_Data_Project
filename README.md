@@ -2,7 +2,7 @@ Getting_and_Cleaning_Data_Projcet
 =================================
 This is the course project for the class "Getting and Cleaning Data" on Coursera 'getdata-008', John Hopkins Bloomberg School of Public Health.
 
-This script creates one tidy data set using the two data sets taken from UC Irvine Machine Learning Repository.
+This is an R script.  It creates one tidy data set using the two data sets taken from UC Irvine Machine Learning Repository.
 
 1.The first section reads two data files that were created as part of one set of observations and were subsequently randomly split into two groups based on the participants.
 2.The variables in each data set are then identified by naming the columns.  This is done by reading a local text file into memory and using the setNames function.  
